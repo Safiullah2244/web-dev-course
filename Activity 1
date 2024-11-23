@@ -1,0 +1,31 @@
+<html>
+    <body>
+        <header>
+            <h1>Navigational Links</h1>
+            <nav>
+            <ul>
+                <li><a href="www.google.com">Google link</a></li>
+                <li><a href="chatgpt.com">ChatGPT link</a></li>
+                <li><a href=http://www.yahoo.com>Yahoo link </a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            </nav>
+        </header>
+    <main>
+    <section>
+            <article>
+                <p>
+                    
+                    All Dogs Are Directly Descended from Wolves. 
+There Are Over 75 Million Pet Dogs in the United States. 
+A Dog's Nose Is Its Fingerprint. 
+Puppies Are Born Deaf and Blind. 
+A Dog's Sense of Smell Is Reduced When Panting. 
+Dogs Have Stellar Noses. 
+Dogs Can Detect Disease in Humans. 
+Dogs Aren't Colorblind.
+               </p>
+            </article>
+    </section>
+    </body>
+</html>
