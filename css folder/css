@@ -1,0 +1,42 @@
+<html lang="eu">
+
+<head>
+    <title>CSS Styling Examples</title>
+    <!-- Internal CSS -->
+    <style>
+        h2 {
+            color: green;
+        }
+    </style>]
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <hr>
+    <!--Inline CSS -->
+    <h1 style="color: red;">INLINE CSS EXAMPLE</h1>
+    <!--Internal CSS-->
+    <h2> INTERNAL CSS EXAMPLE</h2>
+    <h2>whatever</h2>
+    <!--External CSS-->
+    <h3> EXTERNAL CSS EXAMPLE </h3>
+    <hr>
+
+    <!--element selector example-->
+    <h4> Element Selector</h4>
+    <h4> Element Selector</h4>
+    <hr>
+
+    <!-- class and id selector example -->
+    <h2 class="myclass">CLASS SELCTOR EXAMPLE </h2>
+    <h2 id="myid">ID SELCTOR EXAMPLE </h2>
+    <h2 class="myclass">CLASS SELCTOR EXAMPLE </h2>
+    <hr>
+
+    <!--group selector example -->
+    <h5> GROUP SELECTOR EXAMPLE</h5>
+    <p> GROUP SELECTOR EXAMPLE</p>
+</body>
+
+</html> 
