@@ -6,7 +6,7 @@
             height: 400px;
             background-color: red;
             /* For browsers that do not support gradients */
-            background-image: linear-gradient(to top right, red, orange, yellow, blue, green, indigo, violet);
+            background-image: radial-gradient(circle, red, orange, yellow, blue, green, indigo, violet);
         }
     </style>
 </head>
