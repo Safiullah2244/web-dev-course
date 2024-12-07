@@ -1,0 +1,20 @@
+<html>
+<title>Typography</title>
+<style>
+    .text1 {
+        color: red;
+        font-size: 30px
+    }
+
+    .p1 {
+        color: blueviolet;
+        font-family: 'Courier New', Courier, monospace;
+    }
+</style>
+
+<body>
+    <h1>Typeogrophy</h1>
+    <p class="text1">Welcome to Codingal</p1>
+    <p class="p1">Welcome to Codingal<p1>
+</body>
+</html>        
